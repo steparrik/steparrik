@@ -5,7 +5,8 @@
 ### Технологии:
 - 🖥️ Языки программирования: Java, Python
 - 🛠️ Фреймворки: Spring Boot, FastAPI
-- 📊 Системы обработки данных: Kafka, PostgreSQL, RabbitMQ
+- 📊 Системы обработки данных: Kafka, RabbitMQ
+- 💾 Базы данных: PostgreSQL
 - ☁️ Инфраструктура: Docker
 
 ### Проекты:
