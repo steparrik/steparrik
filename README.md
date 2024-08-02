@@ -9,10 +9,11 @@
 - ☁️ Инфраструктура: Docker
 
 ### Проекты:
-- [Мессенджер построенный на микросервисной архитектуре](https://github.com/steparrik/Microservice-Messenger)
+- [Мессенджер, построенный на микросервисной архитектуре](https://github.com/steparrik/Microservice-Messenger)
+- [Тг бот для отслеживания криптовалюты](https://github.com/steparrik/https://github.com/steparrik/cryptAides)
 
 
 ### Связь со мной:
-- LinkedIn: [https://www.linkedin.com/in/ваш_никнейм/](https://www.linkedin.com/in/ваш_никнейм/)
+- Telegrma: [https://t.me/steparrik](https://t.me/steparrik)
 - Email: [stepantereshin27@gmail.com](mailto:stepantereshin27@gmail.com)
 
