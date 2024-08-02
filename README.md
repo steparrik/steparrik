@@ -1,16 +1,18 @@
-## Hi there 👋
+# Привет! Я Backend разработчик 👋
 
-<!--
-**steparrik/steparrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Степан, я занимаюсь разработкой серверных приложений и RESTful API. Фокусируюсь на создании производительных и масштабируемых сервисов, построенных на базе микросервисной архитектуры.
 
-Here are some ideas to get you started:
+### Технологии:
+- 🖥️ Языки программирования: Java, Python
+- 🛠️ Фреймворки: Spring Boot, FastAPI
+- 📊 Системы обработки данных: Kafka, PostgreSQL, RabbitMQ
+- ☁️ Инфраструктура: Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Проекты:
+- [Мессенджер построенный на микросервисной архитектуре](https://github.com/steparrik/Microservice-Messenger)
+
+
+### Связь со мной:
+- LinkedIn: [https://www.linkedin.com/in/ваш_никнейм/](https://www.linkedin.com/in/ваш_никнейм/)
+- Email: [stepantereshin27@gmail.com](mailto:stepantereshin27@gmail.com)
+
