@@ -11,7 +11,7 @@
 
 ### Проекты:
 - [Мессенджер на микросервисах](https://github.com/steparrik/Microservice-Messenger)
-- [Телеграм бот для отслеживания криптовалюты](https://github.com/steparrik/https://github.com/steparrik/cryptAides)
+- [Система Управления Задачами](https://github.com/steparrik/TaskManagementSystem)
 
 
 ### Связь со мной:
