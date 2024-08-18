@@ -1,20 +1,20 @@
-# Backend Java Dev 💻
+# Backend Java Developer 💻
 
-Меня зовут Степан, я занимаюсь разработкой серверных приложений и RESTful API. Фокусируюсь на создании производительных и масштабируемых сервисов, построенных на базе микросервисной архитектуры.
+My name is Stepan, I develop server applications and RESTful APIs. I focus on creating productive and scalable services built on a microservice architecture.
 
-### Технологии:
-- 🖥️ Языки программирования: Java, Python
-- 🛠️ Фреймворки: Spring Boot, FastAPI
-- 📊 Системы обработки данных: Kafka, RabbitMQ
-- 💾 Базы данных: PostgreSQL, Redis
-- ☁️ Инфраструктура: Docker
+### Technologies:
+- 🖥️ Programming languages: Java, Python
+- 🛠️ Frameworks: Spring Boot, FastAPI
+- 📊 Data processing systems: Kafka, RabbitMQ
+- 💾 Databases: PostgreSQL, Redis
+- ☁️ Infrastructure: Docker
 
-### Проекты:
-- [Мессенджер на микросервисах](https://github.com/steparrik/Microservice-Messenger)
-- [Система Управления Задачами](https://github.com/steparrik/TaskManagementSystem)
+### Projects:
+- [Microservices Messenger](https://github.com/steparrik/Microservice-Messenger)
+- [Task Management System](https://github.com/steparrik/TaskManagementSystem)
 
 
-### Связь со мной:
+### Сontacts:
 - Telegram: [https://t.me/steparrik](https://t.me/steparrik)
 - Email: [stepantereshin27@gmail.com](mailto:stepantereshin27@gmail.com)
 
