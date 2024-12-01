@@ -12,11 +12,6 @@
 - 💾 Databases: PostgreSQL, Redis
 - ☁️ Infrastructure: Docker
 
-### Projects:
-- [Microservices Messenger](https://github.com/steparrik/Microservice-Messenger)
-- [Task Management System](https://github.com/steparrik/TaskManagementSystem)
-
-
 ### Сontacts:
 - Telegram: [https://t.me/steparrik](https://t.me/steparrik)
 - Email: [stepantereshin27@gmail.com](mailto:stepantereshin27@gmail.com)
