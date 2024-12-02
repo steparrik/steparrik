@@ -10,6 +10,6 @@
 - ☁️ Infrastructure: Docker
 
 ### Сontacts:
-- Telegram: [https://t.me/steparrik](https://t.me/steparrik)
+- Telegram: [t.me/steparrik](https://t.me/steparrik)
 - Email: [stepantereshin27@gmail.com](mailto:stepantereshin27@gmail.com)
 
