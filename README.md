@@ -6,7 +6,7 @@
 - 🖥️ Programming languages: Java, Python
 - 🛠️ Frameworks: Spring Boot, FastAPI
 - 📊 Data processing systems: Kafka, RabbitMQ
-- 💾 Databases: PostgreSQL, Redis
+- 💾 Databases: PostgreSQL, Redis, MongoDB
 - ☁️ Infrastructure: Docker
 
 ### Сontacts:
